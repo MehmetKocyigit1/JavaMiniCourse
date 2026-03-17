@@ -1,0 +1,8 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 198
+        length: 10
+        placeholder_text: "TODO: calculate sum and print"

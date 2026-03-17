@@ -1,0 +1,10 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 209
+        length: 16
+        placeholder_text: |-
+          TODO: Use if-else to determine the category
+          TODO: Print the category

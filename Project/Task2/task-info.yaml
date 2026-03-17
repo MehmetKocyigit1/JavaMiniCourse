@@ -1,0 +1,11 @@
+type: theory
+files:
+  - name: src/Main.java
+    visible: true
+    placeholders:
+      - offset: 270
+        length: 16
+        placeholder_text: |-
+          TODO: Calculate the sum of numbers
+          
+          TODO: Print the average

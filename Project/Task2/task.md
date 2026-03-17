@@ -1,0 +1,1 @@
+Ask the user to enter 5 numbers, store them in an array, and calculate the average
